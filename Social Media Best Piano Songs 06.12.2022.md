@@ -1,11 +1,11 @@
 Sanatçı|Facebook|Instagram|Twitter|Tekrar Sayısı
 :--|:--|:--|:--|:--
-Jonas Kvarnstr√∂m|https://facebook.com/jonas.e.kvarnstrom|https://instagram.com/jekmalmo/|~|1
+Jonas Kvarnström|https://facebook.com/jonas.e.kvarnstrom|https://instagram.com/jekmalmo/|~|1
 Ludovico Einaudi|https://facebook.com/ludovicoeinaudi|https://instagram.com/ludovico_einaudi/|https://twitter.com/ludovicoeinaud|4
 Danny Elfman|https://facebook.com/dannyelfman|https://instagram.com/dannyelfman/|https://twitter.com/dannyelfman|1
 Yann Tiersen|https://facebook.com/yanntiersen.official|https://instagram.com/yanntiersen|https://twitter.com/yanntiersen|1
 Goldmund|https://facebook.com/goldmundmusic/|https://instagram.com/kenniffs|https://twitter.com/_Helios|1
-√ìlafur Arnalds|https://facebook.com/olafurarnalds/|https://instagram.com/olafurarnalds/?hl=en|https://twitter.com/OlafurArnalds|2
+Ólafur Arnalds|https://facebook.com/olafurarnalds/|https://instagram.com/olafurarnalds/?hl=en|https://twitter.com/OlafurArnalds|2
 Alice Sara Ott|https://facebook.com/alicesaraott|https://instagram.com/alicesaraott_official|https://twitter.com/alicesaraott|1
 Dustin O'Halloran|https://facebook.com/dustinohalloran|https://instagram.com/dustinohalloran|https://twitter.com/DustinOHalloran|1
 Max Richter|https://facebook.com/MaxRichterMusic/|https://instagram.com/maxrichtermusic/|https://twitter.com/maxrichtermusic|2
@@ -13,7 +13,7 @@ Hans Zimmer|https://facebook.com/hanszimmer|https://instagram.com/hanszimmer|htt
 Martin Jacoby|https://facebook.com/martinjacobymusic/?ref=bookmarks|~|https://twitter.com/mjacobypiano|1
 Rachel Currea|~|~|~|1
 Yiruma|~|~|~|2
-M√©lanie Laurent|~|~|~|1
+Mélanie Laurent|~|~|~|1
 PHILDEL|https://facebook.com/phildel.official|https://instagram.com/phildelofficial|https://twitter.com/phildel|1
 Philip Wesley|https://facebook.com/philipwesleysolopiano/|https://instagram.com/philip_wesley|https://twitter.com/philipwesley|5
 Fabrizio Paterlini|https://facebook.com/fabriziopaterlini|https://instagram.com/fpaterlini|https://twitter.com/f_paterlini|20
@@ -25,7 +25,7 @@ Jacob Terris|~|~|~|5
 Aashi|~|~|~|5
 Castello de Rossi|~|~|~|5
 Leonard Gibson|~|~|~|5
-Jonathan M√©nard|~|~|~|2
+Jonathan Ménard|~|~|~|2
 The Piano Guys|https://facebook.com/thepianoguys|https://instagram.com/thepianoguys|https://twitter.com/thepianoguys|1
 Dirk Maassen|https://facebook.com/Dirk.Maassen.Music|https://instagram.com/dirk_maassen|https://twitter.com/maassenofficial|22
 Black Elk|~|~|~|1
@@ -101,7 +101,7 @@ Rhonda Mackert|~|~|~|1
 Mark Pinkus|https://facebook.com/mark.pinkus.1/|https://instagram.com/marklesliepinkus/|https://twitter.com/markuspinkus|1
 Amy Lauren|https://facebook.com/amylaurenmusic|~|https://twitter.com/amylaurenpiano|4
 Charlie Key|~|~|~|1
-Johannes Bornl√∂f|~|https://instagram.com/johannesbornlofcomposer/|~|1
+Johannes Bornlöf|~|https://instagram.com/johannesbornlofcomposer/|~|1
 Oskar Schuster|https://facebook.com/oskarschustermusic|https://instagram.com/oskar.schuster|https://twitter.com/oskarschuster|24
 Charles Bolt|~|~|~|2
 Nils Frahm|~|~|~|1
@@ -132,7 +132,7 @@ Ana Olgica|~|~|~|1
 Gian Marco La Serra|https://facebook.com/GianMarcoLaSerra/|https://instagram.com/gianmarcolaserra/|https://twitter.com/GMLaSerra|6
 Angus MacRae|~|https://instagram.com/angusmacraemusic|https://twitter.com/angusmacrae|2
 Daigo Hanada|https://facebook.com/Daigo-Hanada-1291389547566380|https://instagram.com/daigohanada|~|9
-Ji≈ô√≠ Hor√°k|https://facebook.com/jirihorakpiano/|https://instagram.com/jirihorakpiano/|https://twitter.com/JiriHorakpiano|1
+Jiří Horák|https://facebook.com/jirihorakpiano/|https://instagram.com/jirihorakpiano/|https://twitter.com/JiriHorakpiano|1
 Eric Badanti|~|~|~|1
 Max Swan|~|~|~|1
 Limestone Quarry|~|~|~|1
@@ -146,8 +146,8 @@ Franz Gordon|~|https://instagram.com/franzgordonmusic/|~|1
 by Gunnarsson|https://facebook.com/bygunnarsson|https://instagram.com/by_gunnarsson/|~|1
 David Lanz|https://facebook.com/TheDavidLanz/|~|https://twitter.com/TheDavidLanz|1
 David|~|~|~|1
-G√ÖEL|~|https://instagram.com/gael_pianist|~|1
-Juan Mar√≠a Solare|https://facebook.com/juanmariasolare|https://instagram.com/juanmariasolare/|https://twitter.com/DonSolare|1
+GÅEL|~|https://instagram.com/gael_pianist|~|1
+Juan María Solare|https://facebook.com/juanmariasolare|https://instagram.com/juanmariasolare/|https://twitter.com/DonSolare|1
 Finneas O'Connell|~|~|~|1
 TOPLAM|193|204|165|431
-ORTALAMA|44,77958237|47,33178654|38,28306265|~
+ORTALAMA|44,77958237|47,33178654|38,28306265|
