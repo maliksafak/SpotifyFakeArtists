@@ -1,13 +1,13 @@
 Sanatçı|Facebook|Instagram|Twitter|Tekrar Sayısı
 :--|:--|:--|:--|:--
-Farsj√∂n|~|~|~|1
+Farsjön|~|~|~|1
 Libor Kolman|~|~|~|1
-M. Ljungstr√∂m|~|~|~|1
+M. Ljungström|~|~|~|1
 Emanuel Fremont|~|~|~|1
 Elinaura|~|~|~|1
 Amine Ayad|~|~|~|2
 Klur|https://facebook.com/Klurmusic|https://instagram.com/klur_music/|https://twitter.com/klur_music|1
-Ole-Bj√∏rn Talstad|https://facebook.com/olebjorntalstad|https://instagram.com/Olebtalstad|~|2
+Ole-Bjørn Talstad|https://facebook.com/olebjorntalstad|https://instagram.com/Olebtalstad|~|2
 Claire Lerdier|~|~|~|1
 Jozef De Schutter|https://facebook.com/jozefdeschuttermusic|https://instagram.com/jozef_deschutter|~|1
 Jani Lechleiter|~|~|~|1
@@ -45,7 +45,7 @@ Bodi Lukasz|~|~|~|1
 Jonathan Beaujean|~|~|~|1
 Sarah Keen|~|~|~|1
 Gente di Toscana|~|~|~|1
-Freya R√§√§f|~|~|~|1
+Freya Rääf|~|~|~|1
 Li Zemin|~|~|~|1
 Igulfrid|~|~|~|1
 Stephan Neudorf|~|~|~|1
@@ -67,7 +67,7 @@ Simeon Road|~|~|~|1
 Zecil Malka|~|~|~|1
 Amandine Moulin|~|~|~|1
 Franco Robert|~|https://instagram.com/fran.robert|~|1
-Miguel P√©rez|https://facebook.com/MiguelPerezDiaz/|https://instagram.com/miguelperezdiaz/|https://twitter.com/MiguelPerez_|2
+Miguel Pérez|https://facebook.com/MiguelPerezDiaz/|https://instagram.com/miguelperezdiaz/|https://twitter.com/MiguelPerez_|2
 Doris Casella|~|~|~|1
 Edvard Kravchuk|https://facebook.com/edvard.kravchuk|https://instagram.com/edvard_kravchuk|~|1
 Emil Negri|~|~|~|1
@@ -81,7 +81,7 @@ Teodor Wolgers|https://facebook.com/teodor.wolgers.music|https://instagram.com/t
 Santo Trevisani|~|~|~|1
 Projet Calmant|~|~|~|2
 Gunnel Boek|~|https://instagram.com/gunnelboek/|~|1
-M√≥ret Labino|~|~|~|1
+Móret Labino|~|~|~|1
 Minik Jakobsen|~|~|~|1
 Jeroen Granneman|https://facebook.com/toonaangevend|https://instagram.com/jeroengranneman.nl|~|2
 Patrick Watson|https://facebook.com/patrickwatsonofficial|https://instagram.com/patrickwatsonofficial|https://twitter.com/patrickwatson|1
@@ -93,14 +93,14 @@ Alcon Blue|https://facebook.com/alconblueofficial|https://instagram.com/alconblu
 Laetitia Dostie|~|~|~|1
 Josephe Burke|~|~|~|1
 Miran|~|https://instagram.com/bhudsontaylormusic|~|1
-Ji≈ô√≠ Hor√°k|https://facebook.com/jirihorakpiano/|https://instagram.com/jirihorakpiano/|https://twitter.com/JiriHorakpiano|1
-Les R√™veries|~|~|~|3
-Norman D√ºck|https://facebook.com/normanduckmusic|https://instagram.com/norman_dueck|https://twitter.com/normanduckmusic|3
+Jiří Horák|https://facebook.com/jirihorakpiano/|https://instagram.com/jirihorakpiano/|https://twitter.com/JiriHorakpiano|1
+Les Rêveries|~|~|~|3
+Norman Dück|https://facebook.com/normanduckmusic|https://instagram.com/norman_dueck|https://twitter.com/normanduckmusic|3
 Albin Svensson|~|~|~|1
 Sven Grimm|~|~|~|1
 Affinity88|~|~|~|1
 Oscar Kowalski|~|https://instagram.com/oscarkowalskimusic|https://twitter.com/OscarKowalski|1
-Verney P√©pin|~|~|~|1
+Verney Pépin|~|~|~|1
 Sabr Alptekin|~|https://instagram.com/sabr.alptekin/|~|1
 Milo Edale|~|~|~|1
 Luiza Schmidt|~|~|~|1
@@ -116,8 +116,8 @@ Allysium|~|~|~|2
 Almeda|~|~|~|1
 Tormund|https://facebook.com/tormundmusic|https://instagram.com/tormundmusic|~|1
 Sheila Withmore|~|~|~|1
-G√ÖEL|~|https://instagram.com/gael_pianist|~|1
-Johannes Bornl√∂f|~|https://instagram.com/johannesbornlofcomposer/|~|1
+GÅEL|~|https://instagram.com/gael_pianist|~|1
+Johannes Bornlöf|~|https://instagram.com/johannesbornlofcomposer/|~|1
 Violet Mar|~|~|~|1
 Tjeerd Oosterhuis|~|https://instagram.com/tjoosterhuis|~|2
 William Cas|https://facebook.com/williamcasmusic|https://instagram.com/williamcasmusic|https://twitter.com/williamcasmusic|2
@@ -130,7 +130,7 @@ Davignon|~|~|~|1
 Guido Heeneman|~|~|~|1
 GUIDO|https://facebook.com/GUIDOMUSIK/|https://instagram.com/guidoheeneman/|~|1
 Niall Byrne|~|~|https://twitter.com/niallbyrne_|2
-Elliott Jacqu√©s|https://facebook.com/elliottjacquesmusic/|https://instagram.com/ElliottJacquesMusic|https://twitter.com/ElliottJMusic|2
+Elliott Jacqués|https://facebook.com/elliottjacquesmusic/|https://instagram.com/ElliottJacquesMusic|https://twitter.com/ElliottJMusic|2
 Keiko Ishida|~|~|~|1
 Armando Bauer|~|~|~|1
 Xanthe Nephus|~|~|~|1
@@ -141,27 +141,27 @@ Carl Moir|~|~|~|1
 Nicola Conti|~|~|~|1
 Max Arnolds|~|~|~|1
 Teide|~|~|~|1
-Anna Landstr√∂m|~|https://instagram.com/annalandmusic/|~|3
-Ma√´l Alexandrienne|~|~|~|1
+Anna Landström|~|https://instagram.com/annalandmusic/|~|3
+Maël Alexandrienne|~|~|~|1
 PIAMINO|~|https://instagram.com/piamino3|~|2
 Ron Adelaar|https://facebook.com/ronadelaarmusic|https://instagram.com/ronadelaar|https://twitter.com/ronadelaar|2
 Ben Laver|~|~|~|1
 Pamela Goldings|~|~|~|1
 Akira Kosemura|https://facebook.com/akirakosemura.official|https://instagram.com/akirakosemura|https://twitter.com/akira_kosemura|1
-J√∏rg Sorensen|~|~|~|1
+Jørg Sorensen|~|~|~|1
 Challem|~|https://instagram.com/joachimchallem|~|2
 Alva Brunel|~|~|~|1
 Nel Swerts|~|~|~|1
 Olivia Belli|https://facebook.com/oliviabelliofficial|https://instagram.com/oliviabelliofficial/|https://twitter.com/belli_olivia|2
 Niwa Nova|~|~|~|1
 Lemos|https://facebook.com/Lemoscomposer|https://instagram.com/Lemoscomposer|~|1
-Piano Melancol√≠a|~|https://instagram.com/piano_melancolia|~|1
+Piano Melancolía|~|https://instagram.com/piano_melancolia|~|1
 Vuelto Ciego|~|~|~|1
 Erik Satie|~|~|~|1
 Alexandra Streliski|https://facebook.com/alexstreliski/|https://instagram.com/alexstreliski/|https://twitter.com/alexstreliski|1
 Alain Pironi|~|~|~|1
 Madelene Olsson|~|~|~|1
-Regn√∏r|~|https://instagram.com/moritzwanger|~|2
+Regnør|~|https://instagram.com/moritzwanger|~|2
 praam|https://facebook.com/praam-373104046764792/|https://instagram.com/praam_music/|https://twitter.com/praam_music|1
 Carluccio|~|~|~|1
 Bodor Vencel|~|~|~|1
@@ -174,10 +174,10 @@ Andreas Monta|~|~|~|1
 Xaverius Love|~|~|~|2
 Naia Lambert|~|~|~|1
 Jane Avril|~|~|~|1
-Maya √Östr√∂m|~|~|~|1
+Maya Åström|~|~|~|1
 Ploxxio|~|~|~|1
 Kellen Chase|~|~|~|1
-Luci√©n|~|~|~|2
+Lucién|~|~|~|2
 Milo Liana|~|~|~|1
 Sarah Watson|~|https://instagram.com/sarahwatsonpiano|~|1
 Spencer Zahn|https://facebook.com/spencerzahn|https://instagram.com/spencerzahn|~|1
@@ -187,11 +187,11 @@ Stephen Weber|https://facebook.com/stephen.weber.75|https://instagram.com/stephe
 Temperance Lloyd|~|~|~|1
 Valbona Ceferin|~|~|~|1
 Ambrosiae|~|~|~|1
-H√∏jsgaard|~|https://instagram.com/hojsgaardrasmus|~|1
+Højsgaard|~|https://instagram.com/hojsgaardrasmus|~|1
 Tamara Eden|~|~|~|1
 Giuseppe Califano|https://facebook.com/giuseppecalifanocomposer|https://instagram.com/giuscalifano/|~|1
 Biba Dupont|~|https://instagram.com/biba_dupont/|https://twitter.com/biba_dupont|2
-Justus R√ºmenapp|https://facebook.com/thejrsounddesign/|https://instagram.com/justus_ruemenapp/|~|1
+Justus Rümenapp|https://facebook.com/thejrsounddesign/|https://instagram.com/justus_ruemenapp/|~|1
 Finley Rhone|~|~|~|1
 Nora De Smet|~|https://instagram.com/noradesmet.composer|~|1
 Polly Carter|https://facebook.com/pollycarterpiano|https://instagram.com/pollycarterpiano|~|1
@@ -229,7 +229,7 @@ Morunas|~|~|~|1
 April Baxter|~|https://instagram.com/aprilbaxtermusic|~|1
 Eu Nice|~|~|~|1
 Etienne Balestre|~|~|~|1
-Daniel Joav√≠|~|~|~|1
+Daniel Joaví|~|~|~|1
 Portia Price|~|~|~|1
 JON|~|~|~|1
 Hiroko Murakami|https://facebook.com/hirocomusic|https://instagram.com/hirocotenm|~|1
@@ -261,8 +261,8 @@ Andrea Binotto|~|~|~|1
 Edie Chastain|~|~|~|1
 Jackson Love|~|https://instagram.com/jackson_love_music|~|1
 Jacques Blanc|~|~|~|1
-Med√©a Bokor|~|~|~|1
+Medéa Bokor|~|~|~|1
 James Quinn|~|https://instagram.com/jamesquinnpiano/?hl=en|~|1
 Michiel Borstlap|https://facebook.com/michielborstlappiano|https://instagram.com/michielborstlap|https://twitter.com/michielborstlap|1
-TOPLAM|71|115|47|312
-ORTALAMA|22,75641026|36,85897436|15,06410256|~
+TOPLAM|67|111|46|312
+ORTALAMA|21,47435897|35,57692308|14,74358974|
